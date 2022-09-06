@@ -1,1 +1,1 @@
-Scripts manipulation in working directory
+Display lines containing the pattern “root” from the file /etc/passwd
